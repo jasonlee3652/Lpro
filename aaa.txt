@@ -1,10 +1,7 @@
-<<<<<<< Updated upstream
 11111
 2fafdsfdds333
 fdsffs
 55fsd55
-=======
->>>>>>> Stashed changes
 sd11fds1
 fdsfs
 5a5fds
